@@ -1,0 +1,50 @@
+body{
+text-align: center;
+background-color:gold;
+}
+#Title{
+font-size:40px;
+color:white;
+border-radius: 20px;
+}
+#Sentence{
+color:darkblue;
+font-size:28px;
+font-weight: bold;
+}
+#options{
+font-size: 25px;
+color:black;
+font-weight: bold;
+}
+label{
+font-size: 28px;
+color:indigo;
+}
+#Camera{
+height: 250px;
+width: 350px;
+}
+#button_snap{
+width: 200px;
+font-size:20px;
+color:lightgrey;
+font-weight:bold;
+}
+#button_check{
+    width: 200px;
+    height: 40px;
+    font-size:20px;
+    color:lightgrey;
+    font-weight:bold;
+    background-color: green;
+    border-radius: 5px;
+    }
+    #result_object, #result_accuracy{
+        color:darkblue;
+        font-weight: bold;
+        }
+        p{
+        color: black;
+        font-weight: bold;
+        }
